@@ -9,6 +9,8 @@
 
   - [Project+](https://www.credly.com/badges/58405a6a-3124-40e3-ad03-4cd92c8e553b/public_url)
   - [ITIL]
+  - [Security+](https://www.credly.com/badges/5aec9ec2-8997-4f97-b55d-7819cf7df4c4/public_url)
+  - [A+](https://www.credly.com/badges/0e1e94bd-579d-4159-9b3a-31e2e88f968c/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
