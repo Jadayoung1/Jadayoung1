@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Security and IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/jadayoung1/LABURL)
-  - [SOHO Home Lab](https://github.com/jadayoung1/LABURL)
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/jadayoung1/LABURL)
+  - [Managing Users within Azure AD](https://github.com/jadayoung1/LABURL)
 
 <h2>Certifications</h2>
 
